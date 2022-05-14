@@ -49,6 +49,7 @@
   background-color: #fafafa;
   padding-top: 0.125rem;
   padding-bottom: 0.125rem;
+  border-bottom-width: 50%!important;
 }
 
 .navbar-inner {
