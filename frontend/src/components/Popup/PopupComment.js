@@ -73,7 +73,7 @@ const PopupComment = () => {
               className="form-control1 textarea-comment"
               id="commentContent"
               rows="4"
-              placeholder="*爱评论的人运气都不差～"
+              placeholder="发一条友善的评论"
               maxlength="300"
               minlength="1"
               onChange={(e) => setNumWords(300 - e.target.value.length)}
